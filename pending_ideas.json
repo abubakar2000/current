@@ -1,0 +1,22 @@
+[
+    {
+    "Title": "T3",
+    "Description": "d3",
+    "Owners": [
+     "o3"
+    ],
+    "Problem": "p",
+    "Domain": "d3",
+    "Technologies_used": [
+     "MEAN STACK",
+     "MERN STACK"
+    ],
+    "Viewing_price": 34,
+    "Ownership_price": 10,
+    "Pricing_history": [
+     10
+    ],
+    "Score_text": "t3",
+    "Score": 21
+   }
+]
